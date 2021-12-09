@@ -19,6 +19,9 @@ npm i input
 https://docs.nestjs.com/techniques/configuration#configuration
 https://docs.nestjs.com/cli/usages
 https://docs.nestjs.com/fundamentals/lifecycle-events
+https://gram.js.org/introduction/advanced-installation
+https://gram.js.org/tl/auth/SendCode
 
 https://gram.js.org/getting-started/authorization
 https://www.npmjs.com/package/telegram
+https://painor.gitbook.io/gramjs/getting-started/updates-events
