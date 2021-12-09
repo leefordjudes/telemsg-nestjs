@@ -4,4 +4,21 @@ npm install -g @nestjs/cli
 nest new telemsg-nestjs
 cd telemsg-nestjs
 npm i --save @nestjs/config
+npm i class-validator
+npm install class-transformer
 npm i telegram
+npm i lodash @types/lodash
+
+nest generate module app/message --no-spec
+nest generate controller app/message --no-spec
+nest generate service app/message --no-spec
+
+npm i input
+
+## References
+https://docs.nestjs.com/techniques/configuration#configuration
+https://docs.nestjs.com/cli/usages
+https://docs.nestjs.com/fundamentals/lifecycle-events
+
+https://gram.js.org/getting-started/authorization
+https://www.npmjs.com/package/telegram
