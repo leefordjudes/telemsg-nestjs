@@ -1,0 +1,7 @@
+## Commands Used
+
+npm install -g @nestjs/cli
+nest new telemsg-nestjs
+cd telemsg-nestjs
+npm i --save @nestjs/config
+npm i telegram
